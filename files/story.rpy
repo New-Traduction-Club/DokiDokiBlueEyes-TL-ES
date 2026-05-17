@@ -4,67 +4,67 @@
 translate spanish story_41e273ca:
 
     # s "Heeeeeeeyyy!!"
-    s ""
+    s "¡Eeeh!"
 
 # game/story.rpy:11
 translate spanish story_bcc5bb00:
 
     # "I see an annoying girl running toward me from the distance, waving her arms in the air like she's totally oblivious to any attention she might draw to herself."
-    ""
+    "Veo a una chica pesada que corre hacia mí desde lejos, agitando los brazos en el aire, como si no se diera cuenta de lo mucho que llama la atención."
 
 # game/story.rpy:12
 translate spanish story_80f1ba46:
 
     # "That girl is Sayori, my neighbor and good friend since we were children."
-    ""
+    "Es Sayori, mi vecina y buena amiga de la infancia."
 
 # game/story.rpy:13
 translate spanish story_40dc33e4:
 
     # "You know, the kind of friend you'd never see yourself making today, but it just kind of works out because you've known each other for so long?"
-    ""
+    "La clase de amiga que no te imaginas haciendo a día de hoy, pero la relación funciona porque os conocéis desde hace mucho tiempo."
 
 # game/story.rpy:14
 translate spanish story_fc8dd6bc:
 
     # "We used to walk to school together on days like this, but starting around high school she would oversleep more and more frequently, and I would get tired of waiting up."
-    ""
+    "En días como este, íbamos juntos a clase, pero en secundaria se le empezaron a pegar las sábanas cada vez más a menudo y me cansé de esperarla."
 
 # game/story.rpy:15
 translate spanish story_0117e949:
 
     # "But if she's going to chase after me like this, I almost feel better off running away."
-    ""
+    "Aunque, si va a perseguirme de esta manera, casi me conviene más salir corriendo."
 
 # game/story.rpy:16
 translate spanish story_a0aaf316:
 
     # "However, I just sigh and idle in front of the crosswalk and let Sayori catch up to me."
-    ""
+    "Sin embargo, suspiro y me paro delante del cruce para que Sayori pueda alcanzarme."
 
 # game/story.rpy:19
 translate spanish story_cf958be9:
 
     # s 4p "Haaahhh...haaahhh..."
-    s 4p ""
+    s 4p "Aaah... Aaah..."
 
 # game/story.rpy:20
 translate spanish story_d5b6fac2:
 
     # s "I overslept again!"
-    s ""
+    s "¡Me he vuelto a quedar dormida!"
 
 # game/story.rpy:21
 translate spanish story_7fa78c9d:
 
     # s "But I caught you this time!"
-    s ""
+    s "¡Pero esta vez te he alcanzado!"
 
 # game/story.rpy:22
 translate spanish story_164efad7:
 
     # mc "Maybe, but only because I decided to stop and wait for you."
-    mc ""
+    mc "Puede, pero solo porque he decidido pararme a esperarte."
 
 # game/story.rpy:23
 translate spanish story_f6b9a17e:
