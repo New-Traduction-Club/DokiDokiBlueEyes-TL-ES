@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-05-17 12:19
+﻿
 
 # game/definitions/splash.rpy:356
 translate spanish splashscreen_f490803a:
