@@ -229,3 +229,6 @@ translate spanish strings:
     old "Language"
     new "Idioma"
 
+    old "Please enter your name"
+    new "¿Cómo te llamas?"
+
