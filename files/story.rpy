@@ -202,7 +202,7 @@ translate spanish story_9813eb56:
 translate spanish story_cd7e6d7b:
 
     # mc "its okat."
-    mc "No te apures."
+    mc "Tranquila."
 
 # game/story.rpy:50
 translate spanish story_d08fd00c:
@@ -238,7 +238,7 @@ translate spanish story_f13105e3:
 translate spanish story_b46a8447:
 
     # "there goes sayori and her cute simle."
-    "Ahí va Sayori, con su linda sonrisa."
+    "Y ahí va Sayori con esa sonrisilla."
 
 # game/story.rpy:59
 translate spanish story_e73fa0fd:
@@ -310,7 +310,7 @@ translate spanish story_7c4df1d1:
 translate spanish story_9e694a9d:
 
     # "I hope u get no bitches."
-    "Espero que no pilles cacho en tu vida."
+    "Espero que no folles en tu puta vida."
 
 # game/story.rpy:74
 translate spanish story_13a23c7d:
@@ -676,37 +676,37 @@ translate spanish story_d97c576a:
 translate spanish story_76f34846:
 
     # n lhip rhip angr om "Not bad only?!"
-    n lhip rhip angr om "¡¿Cómo coño solo dices, NO ESTÁ MAL?!"
+    n lhip rhip angr om "¡¿Cómo coño te da por decir 'NO ESTÁ MAL' nada más?!"
 
 # game/story.rpy:173
 translate spanish story_ce6f24a7:
 
     # n "fuck u"
-    n "amigo, que te jodan."
+    n "que te follen, tío."
 
 # game/story.rpy:174
 translate spanish story_17ab8050:
 
     # mc "nah, i don't fuck midgets."
-    mc "nah, yo no me follo a enanas."
+    mc "qué va, yo no me follo a enanas,"
 
 # game/story.rpy:176
 translate spanish story_e2bb5adf:
 
     # mc "and flat-chested"
-    mc "y planas."
+    mc "y planas, además."
 
 # game/story.rpy:178
 translate spanish story_1eb3217d:
 
     # "burn natsuki or whatever"
-    "toma zasca natsuki o lo que sea."
+    "Vaya zasca te has llevado, natsuki o como te llames."
 
 # game/story.rpy:179
 translate spanish story_03b8d8f6:
 
     # "get rosted."
-    "papeada."
+    "que te den."
 
 # game/story.rpy:181
 translate spanish story_72970f3a:
@@ -868,7 +868,7 @@ translate spanish story_d409f7d0:
 translate spanish story_968c5d86:
 
     # "natuski can go to hell"
-    "que natuski se vaya al infierno."
+    "que natuski se vaya a la mierda."
 
 # game/story.rpy:217
 translate spanish story_0c296b4e:
@@ -1270,7 +1270,7 @@ translate spanish story_2de65b3c:
 translate spanish story_23159151:
 
     # "i will kms"
-    "me pego un tiro en toda la cabeza"
+    "me pego un tiro en la cabeza"
 
 # game/story.rpy:316
 translate spanish story_8e1ae1c4:
@@ -1312,7 +1312,7 @@ translate spanish story_f5ba6006:
 translate spanish story_65f18f46:
 
     # s "And my coins ran out."
-    s "Pero me he quedado sin moneditas."
+    s "Me he quedado sin dinerete."
 
 # game/story.rpy:325
 translate spanish story_2b35b6fe_2:
@@ -1654,7 +1654,7 @@ translate spanish story_0e97cae1:
 translate spanish story_03da72c7:
 
     # mc "What the fuck that's bad."
-    mc "Joder que putada."
+    mc "Joder, qué putada."
 
 # game/story.rpy:400
 translate spanish story_d5ed238c:
@@ -2074,7 +2074,7 @@ translate spanish story_d27454fd:
 translate spanish story_d81fe50c:
 
     # "you succ"
-    "eres una mierda"
+    "eres un mierdas"
 
 # game/story.rpy:488
 translate spanish story_a20cefa7_1:
