@@ -200,11 +200,11 @@ translate spanish strings:
 
     # game/screens.rpy:1338
     old "DDLC Settings"
-    new "Opciones de DDLC"
+    new "DDLC"
 
     # game/screens.rpy:1339
     old "Template Settings"
-    new "Opciones de la Mod Template"
+    new "Mod Template"
 
     # game/screens.rpy:1488
     old "The dialogue history is empty."
@@ -213,10 +213,6 @@ translate spanish strings:
     # game/screens.rpy:1726
     old "OK"
     new "Vale"
-
-    # game/screens.rpy:1757
-    old "Cancel"
-    new "Cancelar"
 
     # game/screens.rpy:1838
     old "Yes"
@@ -229,4 +225,7 @@ translate spanish strings:
     # game/screens.rpy:1892
     old "Skipping"
     new "Omitiendo"
+
+    old "Language"
+    new "Idioma"
 
