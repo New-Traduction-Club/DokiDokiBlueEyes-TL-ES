@@ -2116,1039 +2116,1040 @@ translate spanish story_0a3e5978:
 translate spanish story_e78ac821:
 
     # "I'm nervous."
-    ""
+    "Estoy nervioso."
 
 # game/story.rpy:498
 translate spanish story_4d587b47:
 
     # "I walked in."
-    ""
+    "Entro en la habitación."
 
 # game/story.rpy:502
 translate spanish story_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/story.rpy:503
 translate spanish story_0eb5dc0c:
 
     # "here it goes."
-    ""
+    "Allá vamos."
 
 # game/story.rpy:504
 translate spanish story_b0993b5c:
 
     # "I gently open the door."
-    ""
+    "Abro la puerta con cuidado."
 
 # game/story.rpy:509
 translate spanish story_1bda8877_1:
 
     # s "Hello, [player]."
-    s ""
+    s "Hola, [player]."
 
 # game/story.rpy:510
 translate spanish story_eab3a1d0:
 
     # s "Ready to do... the thing?"
-    s ""
+    s "¿Listo para hacer el lío?"
 
 # game/story.rpy:511
 translate spanish story_80254e9e:
 
     # mc "yessssssssssssssss"
-    mc ""
+    mc "Siiiiiiiiiiiiiiiiii."
 
 # game/story.rpy:512
 translate spanish story_f6e1ce29:
 
     # mc "Let's turn off the lights."
-    mc ""
+    mc "Voy a apagar las luces."
 
 # game/story.rpy:513
 translate spanish story_ceaffc66:
 
     # s "Getting freaky today are we?"
-    s ""
+    s "Hoy estamos juguetones, ¿eh?"
 
 # game/story.rpy:514
 translate spanish story_b5c5d69c:
 
     # mc "yes."
-    mc ""
+    mc "Pues sí."
 
 # game/story.rpy:516
 translate spanish story_3ec6188b:
 
     # s "There."
-    s ""
+    s "Ya está."
 
 # game/story.rpy:517
 translate spanish story_84f16542:
 
     # mc "Okay..."
-    mc ""
+    mc "Vale..."
 
 # game/story.rpy:518
 translate spanish story_147d6430:
 
     # mc "Close your eyes Sayori."
-    mc ""
+    mc "Cierra los ojos, Sayori."
 
 # game/story.rpy:519
 translate spanish story_3a4ffc27:
 
     # mc "We're gonna have a {i}good{/i} time."
-    mc ""
+    mc "Nos lo vamos a pasar muy pero que muy bien."
 
 # game/story.rpy:520
 translate spanish story_d1e8bdcb:
 
     # "Sayori closed her eyes."
-    ""
+    "Ha cerrado los ojos."
 
 # game/story.rpy:521
 translate spanish story_f0657274:
 
     # "Okay."
-    ""
+    "Vale."
 
 # game/story.rpy:522
 translate spanish story_5d411773:
 
     # "Today's the time."
-    ""
+    "Ha llegado la hora."
 
 # game/story.rpy:523
 translate spanish story_5c190b83:
 
     # "I need to do this quick."
-    ""
+    "Tengo que hacerlo rápido."
 
 # game/story.rpy:531
 translate spanish not_pipe_e2881d0c:
 
     # "I pulled down my pants and..."
-    ""
+    "Me bajo los pantalones..."
 
 # game/story.rpy:532
 translate spanish not_pipe_750f8157:
 
     # "Out of nowhere, people started appearing at our room."
-    ""
+    "De la nada, empieza a aparecer gente en nuestra habitación."
 
 # game/story.rpy:533
 translate spanish not_pipe_999c6c37:
 
     # "During our haram session?"
-    ""
+    "¿Justo en medio de nuestro momento de adolescentes cachondos?"
 
 # game/story.rpy:534
 translate spanish not_pipe_b1ffb8c0:
 
     # "What the fuck is this...?"
-    ""
+    "Ya en serio, ¿qué cojones es esto...?"
 
 # game/story.rpy:535
 translate spanish not_pipe_ba1254e0:
 
     # cl "We are the worshippers of Ra."
-    cl ""
+    cl "Somos los adoradores de Ra."
 
 # game/story.rpy:536
 translate spanish not_pipe_ce7f32a6:
 
     # cl "And hereby we offer this bundle of sunshine to our god."
-    cl ""
+    cl "Y por la presente tendremos que hacer una ofrende de este rayito de sol a nuestro dios."
 
 # game/story.rpy:537
 translate spanish not_pipe_36e149f3:
 
     # mc "What the fuck."
-    mc ""
+    mc "Pero qué cojones."
 
 # game/story.rpy:538
 translate spanish not_pipe_8e0f356e:
 
     # s "[player]... I'm scared."
-    s ""
+    s "[player]... Tengo miedo."
 
 # game/story.rpy:540
 translate spanish not_pipe_c63f6463:
 
     # mc "Stay with me Sayori."
-    mc ""
+    mc "Quédate conmigo, Sayori."
 
 # game/story.rpy:541
 translate spanish not_pipe_18533cf4:
 
     # mc "I will protect you."
-    mc ""
+    mc "Yo te protegeré."
 
 # game/story.rpy:542
 translate spanish not_pipe_6ed023c0:
 
     # "But they already got me from behind."
-    ""
+    "Y... ya me han agarrado por detrás."
+    "Espero que por lo menos usen vaselina para que me duela menos por mi hoyito."
 
 # game/story.rpy:543
 translate spanish not_pipe_5e77c0c0:
 
     # cl "..."
-    cl ""
+    cl "..."
 
 # game/story.rpy:544
 translate spanish not_pipe_9d9084a7:
 
     # cl "You're so dumb."
-    cl ""
+    cl "Mira que eres idiota."
 
 # game/story.rpy:545
 translate spanish not_pipe_e2c52440:
 
     # cl "Little girl."
-    cl ""
+    cl "Niñata."
 
 # game/story.rpy:546
 translate spanish not_pipe_03e48eee:
 
     # cl "Come with us and be sacrificed for the glory of Ra."
-    cl ""
+    cl "Ven con nosotros y sé sacrificada por la gloria de Ra."
 
 # game/story.rpy:547
 translate spanish not_pipe_2f36d71e:
 
     # cl "It will be an honor and privilege for you."
-    cl ""
+    cl "Será todo un honor y un privilegio para ti."
 
 # game/story.rpy:548
 translate spanish not_pipe_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/story.rpy:549
 translate spanish not_pipe_45eda213:
 
     # s "No!"
-    s ""
+    s "¡No!"
 
 # game/story.rpy:550
 translate spanish not_pipe_f1772169:
 
     # mc "Sayori don't do it!"
-    mc ""
+    mc "¡Sayori, no lo hagas!"
 
 # game/story.rpy:555
 translate spanish not_pipe_2e84bb9b:
 
     # "They hit me with a metal pipe."
-    ""
+    "Me pegan con una barra de metal."
 
 # game/story.rpy:556
 translate spanish not_pipe_136ffb3a:
 
     # cl "You don't want to get your boyfriend killed now, do you...?"
-    cl ""
+    cl "No querrás que matemos a tu novio, ¿verdad...?"
 
 # game/story.rpy:557
 translate spanish not_pipe_a62e06f4:
 
     # s "Don't hurt him!"
-    s ""
+    s "¡No le hagáis daño!"
 
 # game/story.rpy:559
 translate spanish not_pipe_42c80213:
 
     # "They continued to beat me with the metal pipe."
-    ""
+    "Me siguen golpeando con la barra de metal."
 
 # game/story.rpy:560
 translate spanish not_pipe_e87e0575:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/story.rpy:561
 translate spanish not_pipe_fd031e92:
 
     # mc "Run..."
-    mc ""
+    mc "Huye..."
 
 # game/story.rpy:562
 translate spanish not_pipe_62e85122:
 
     # s "[player]!"
-    s ""
+    s "¡[player]!"
 
 # game/story.rpy:563
 translate spanish not_pipe_69a1f3b0:
 
     # cl "Submit, little girl, or he dies."
-    cl ""
+    cl "Ríndete, niñita, o se muere."
 
 # game/story.rpy:564
 translate spanish not_pipe_e1554201_1:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/story.rpy:565
 translate spanish not_pipe_2e27b0f9:
 
     # "Suddenly the room starts to shake."
-    ""
+    "De repente, la habitación empieza a temblar."
 
 # game/story.rpy:566
 translate spanish not_pipe_148f055b:
 
     # s "{b} Don't you hurt my boyfriend!{/b}"
-    s ""
+    s "¡¡Ni se os ocurra tocar a mi novio!!"
 
 # game/story.rpy:567
 translate spanish not_pipe_24533c8a:
 
     # "She suddenly transformed into a big dragon."
-    ""
+    "De repente, se transformó en un gran dragón."
 
 # game/story.rpy:568
 translate spanish not_pipe_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/story.rpy:569
 translate spanish not_pipe_0ec4a57b:
 
     # "I can't believe what I'm seeing right now."
-    ""
+    "No me puedo creer lo que estoy viendo con mis ojitos."
 
 # game/story.rpy:570
 translate spanish not_pipe_8a15a19f:
 
     # "She starts to rampage at the people grabbing me."
-    ""
+    "Empieza a atacar brutalmente a la gente que me tiene agarrado."
 
 # game/story.rpy:571
 translate spanish not_pipe_2aa86c22:
 
     # "She ate them."
-    ""
+    "Se los comió."
 
 # game/story.rpy:572
 translate spanish not_pipe_6d2135f4:
 
     # mc "... Sayori?"
-    mc ""
+    mc "¿Sayori...?"
 
 # game/story.rpy:573
 translate spanish not_pipe_655df868:
 
     # "The dragon smiled."
-    ""
+    "El dragón sonrió,"
 
 # game/story.rpy:574
 translate spanish not_pipe_8b8ec44d:
 
     # "And started to charge towards the leader."
-    ""
+    "y se lanzó a la carga contra el líder."
 
 # game/story.rpy:575
 translate spanish not_pipe_5e77c0c0_1:
 
     # cl "..."
-    cl ""
+    cl "..."
 
 # game/story.rpy:576
 translate spanish not_pipe_02c48fac:
 
     # cl "I can't believe she's the fabled cinnamon dragon."
-    cl ""
+    cl "No me puedo creer que sea el legendario dragón de canela."
 
 # game/story.rpy:577
 translate spanish not_pipe_40c870d5:
 
     # cl "I have to make this count."
-    cl ""
+    cl "No puedo fallar ahora."
 
 # game/story.rpy:578
 translate spanish not_pipe_e697ef81:
 
     # "He started to chant a spell."
-    ""
+    "Empezó a conjurar un hechizo."
 
 # game/story.rpy:579
 translate spanish not_pipe_93e7dc84:
 
     # cl "Take this, dragon."
-    cl ""
+    cl "Toma esto, dragón."
 
 # game/story.rpy:580
 translate spanish not_pipe_ae6c134a:
 
     # cl "Feel the wrath of the sun god!"
-    cl ""
+    cl "¡Siente la ira del dios del sol!"
 
 # game/story.rpy:581
 translate spanish not_pipe_d56406d2:
 
     # "He fired the massive spell towards her."
-    ""
+    "Le lanzó el hechizo gigante gigantón gigachad super mágico 3000."
 
 # game/story.rpy:582
 translate spanish not_pipe_57caa2b5:
 
     # "She was screaming in pain."
-    ""
+    "Ella gritaba de dolor."
 
 # game/story.rpy:583
 translate spanish not_pipe_422b45cd:
 
     # "Yet she still was able to gouge the leader, killing him instantly."
-    ""
+    "Sin embargo, logró destripar al líder, matándolo en el acto."
 
 # game/story.rpy:584
 translate spanish not_pipe_02cdd604:
 
     # "She reverted back to her human form."
-    ""
+    "Volvió a su forma humana."
 
 # game/story.rpy:586
 translate spanish not_pipe_ce62c226:
 
     # mc "Sayori!"
-    mc ""
+    mc "¡Sayori!"
 
 # game/story.rpy:587
 translate spanish not_pipe_a5f5d874:
 
     # "I immediately ran to her."
-    ""
+    "Corrí inmediatamente hacia ella."
 
 # game/story.rpy:589
 translate spanish not_pipe_d2c077ad:
 
     # mc "I'm sorry I couldn't do anything."
-    mc ""
+    mc "Siento no haber podido hacer nada."
 
 # game/story.rpy:590
 translate spanish not_pipe_e1554201_2:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/story.rpy:591
 translate spanish not_pipe_61c2e6b9:
 
     # s "It's okay."
-    s ""
+    s "Tranqui."
 
 # game/story.rpy:592
 translate spanish not_pipe_8c87ff77:
 
     # s "I'm sorry."
-    s ""
+    s "Lo siento."
 
 # game/story.rpy:593
 translate spanish not_pipe_c63f6463_1:
 
     # mc "Stay with me Sayori."
-    mc ""
+    mc "Quédate conmigo, Sayori."
 
 # game/story.rpy:594
 translate spanish not_pipe_7bd90250:
 
     # "She starts to cough up blood."
-    ""
+    "Empieza a toser sangre."
 
 # game/story.rpy:595
 translate spanish not_pipe_23d81314:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/story.rpy:596
 translate spanish not_pipe_4a7c3f0d:
 
     # s "I just want you to know..."
-    s ""
+    s "Solo quiero que sepas...,"
 
 # game/story.rpy:597
 translate spanish not_pipe_1fc9617d:
 
     # s "That I will always love you."
-    s ""
+    s "que siempre te amaré."
 
 # game/story.rpy:598
 translate spanish not_pipe_02122e95:
 
     # s "No matter where you are."
-    s ""
+    s "No importa dónde esté."
 
 # game/story.rpy:599
 translate spanish not_pipe_eb494df0:
 
     # s "No matter where I'll be."
-    s ""
+    s "Ni dónde estés."
 
 # game/story.rpy:600
 translate spanish not_pipe_cc761816:
 
     # mc "No..."
-    mc ""
+    mc "No..."
 
 # game/story.rpy:601
 translate spanish not_pipe_ad941894:
 
     # mc "Sayori don't say that."
-    mc ""
+    mc "Sayori, no digas eso."
 
 # game/story.rpy:602
 translate spanish not_pipe_e1554201_3:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/story.rpy:603
 translate spanish not_pipe_23d81314_1:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/story.rpy:604
 translate spanish not_pipe_f076dafa:
 
     # s "Promise me that you'll keep on."
-    s ""
+    s "Prométeme que seguirás adelante."
 
 # game/story.rpy:605
 translate spanish not_pipe_f9c587a6:
 
     # s "I will be always there by your side."
-    s ""
+    s "Yo siempre estaré ahí a tu lado."
 
 # game/story.rpy:606
 translate spanish not_pipe_dcaaf369:
 
     # "She vanished into thin air."
-    ""
+    "Se desvanece en el aire."
 
 # game/story.rpy:607
 translate spanish not_pipe_22a33fe1:
 
     # mc "Noooooooooooooooooooooo!"
-    mc ""
+    mc "¡Nooooooooooooooooooooooooooooooooooooooo!"
 
 # game/story.rpy:608
 translate spanish not_pipe_1c568daa:
 
     # "Onto her wake resides a card."
-    ""
+    "Tras su estela, aparece una carta."
 
 # game/story.rpy:609
 translate spanish not_pipe_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/story.rpy:610
 translate spanish not_pipe_aaf6e2ae:
 
     # "I picked up the card."
-    ""
+    "Cojo la carta."
 
 # game/story.rpy:611
 translate spanish not_pipe_e87e0575_1:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/story.rpy:612
 translate spanish not_pipe_bcb2d641:
 
     # mc "You'll always be my dearest friend..."
-    mc ""
+    mc "Siempre serás mi amiga más querida..."
 
 # game/story.rpy:613
 translate spanish not_pipe_ee676f9a:
 
     # mc "And my only love..."
-    mc ""
+    mc "Y mi único amor..."
 
 # game/story.rpy:621
 translate spanish not_pipe_9dbdbe06:
 
     # ak "Come on, [player]."
-    ak ""
+    ak "Venga ya, [player]."
 
 # game/story.rpy:622
 translate spanish not_pipe_a4b92826:
 
     # ak "You're gonna lose now."
-    ak ""
+    ak "Ahora vas a perder."
 
 # game/story.rpy:624
 translate spanish not_pipe_577fe1f0:
 
     # ak "Draw your last pathetic card so I can end this."
-    ak ""
+    ak "Roba tu última y puñetera carta para que pueda acabar con esto."
 
 # game/story.rpy:625
 translate spanish not_pipe_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/story.rpy:627
 translate spanish not_pipe_b3315c01:
 
     # mc "My deck has no pathetic cards, Akai."
-    mc ""
+    mc "Mi baraja no tiene cartas malas, Akai."
 
 # game/story.rpy:628
 translate spanish not_pipe_5811d3df:
 
     # mc "With the power of friendship..."
-    mc ""
+    mc "Con el poder de la amistad..."
 
 # game/story.rpy:629
 translate spanish not_pipe_3021170a:
 
     # mc "I draw!"
-    mc ""
+    mc "¡Robo!"
 
 # game/story.rpy:630
 translate spanish not_pipe_bbcdc255:
 
     # "I smirked."
-    ""
+    "He esbozado una sonrisa de superioridad suprema."
 
 # game/story.rpy:631
 translate spanish not_pipe_78dfd972:
 
     # mc "I special summon Blue-Eyes Cinnamon Dragon!"
-    mc ""
+    mc "¡Invoco de forma especial al dragón de canela de ojos azules!"
 
 # game/story.rpy:634
 translate spanish not_pipe_f737e982:
 
     # ak "Oh no!"
-    ak ""
+    ak "¡Ah, nooo!"
 
 # game/story.rpy:635
 translate spanish not_pipe_9987f1eb:
 
     # mc "It destroys all other cards on the field and gains 1000 ATK for each card destroyed!"
-    mc ""
+    mc "¡Destruye las demás cartas en el campo y gana 1000 de ATK por cada una!"
 
 # game/story.rpy:636
 translate spanish not_pipe_e87e0575_2:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/story.rpy:637
 translate spanish not_pipe_bb0eeaf4:
 
     # mc "Thank you."
-    mc ""
+    mc "Gracias."
 
 # game/story.rpy:638
 translate spanish not_pipe_c2f92986:
 
     # mc "Blue-Eyes Cinnamon Dragon, attack his Life Points Directly!"
-    mc ""
+    mc "¡Dragón de canela de ojos azules, ataca directamente a sus puntos de vida!"
 
 # game/story.rpy:639
 translate spanish not_pipe_2481e514:
 
     # mc "Burst Stream!"
-    mc ""
+    mc "¡Ráfaga de destrucción!"
 
 # game/story.rpy:641
 translate spanish not_pipe_89cab816:
 
     # "Akai's life points dropped down to 0."
-    ""
+    "Los puntos de vida de Akai cayeron a 0."
 
 # game/story.rpy:645
 translate spanish not_pipe_46b79df3:
 
     # ak "..."
-    ak ""
+    ak "..."
 
 # game/story.rpy:647
 translate spanish not_pipe_d5688d00:
 
     # ak mb "That was a fun duel!"
-    ak mb ""
+    ak mb "¡Ha sido un duelo muy divertido!"
 
 # game/story.rpy:648
 translate spanish not_pipe_ee7bfe51:
 
     # ak "You beat me this time, [player]."
-    ak ""
+    ak "Esta vez me has ganado, [player]."
 
 # game/story.rpy:649
 translate spanish not_pipe_fee19db9:
 
     # "The bell started to ring."
-    ""
+    "El timbre empezó a sonar."
 
 # game/story.rpy:650
 translate spanish not_pipe_b77b0001:
 
     # ak "We need to go home, man."
-    ak ""
+    ak "Tenemos que irnos a casa, tío."
 
 # game/story.rpy:651
 translate spanish not_pipe_f800bed0:
 
     # mc "Yes."
-    mc ""
+    mc "Sí."
 
 # game/story.rpy:654
 translate spanish not_pipe_a3142886:
 
     # "We went home and called it a day."
-    ""
+    "Nos fuimos a casa y dimos el día por concluido."
 
 # game/story.rpy:663
 translate spanish pipe_6955afdd:
 
     # "I pulled out my thick pipe and..."
-    ""
+    "Saqué mi gruesa tubería y..."
 
 # game/story.rpy:668
 translate spanish pipe_ee0d4f75:
 
     # "That first hit might've knocked her unconscious."
-    ""
+    "Puede que ese primer golpe la haya dejado inconsciente."
 
 # game/story.rpy:669
 translate spanish pipe_4e89a766:
 
     # mc "Better give one more whack just to be sure..."
-    mc ""
+    mc "Será mejor darle otro golpe para asegurarse..."
 
 # game/story.rpy:721
 translate spanish pipe_1a70c192:
 
     # "I think that's good enough."
-    ""
+    "Creo que con eso será suficiente."
 
 # game/story.rpy:722
 translate spanish pipe_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/story.rpy:723
 translate spanish pipe_8b992728:
 
     # mc "I need to get your power, Blue Eyes."
-    mc ""
+    mc "Necesito hacerme con tu poder, Ojos Azules."
 
 # game/story.rpy:724
 translate spanish pipe_66210915:
 
     # "I gaze upon her lifeless body."
-    ""
+    "Contemplo su cuerpo inerte."
 
 # game/story.rpy:725
 translate spanish pipe_59269340:
 
     # "She seems... so peaceful."
-    ""
+    "Parece... muy en paz."
 
 # game/story.rpy:726
 translate spanish pipe_ac0b973b:
 
     # "Yet she still looks cute."
-    ""
+    "Y aun así sigue viéndose cuqui."
 
 # game/story.rpy:727
 translate spanish pipe_58f5d1c1:
 
     # "We could've been dating, get married, have children."
-    ""
+    "Podríamos haber salido juntos, habernos casado y tenido hijos."
 
 # game/story.rpy:728
 translate spanish pipe_237917b7:
 
     # "But I chose to do this."
-    ""
+    "Pero yo elegí hacer esto."
 
 # game/story.rpy:729
 translate spanish pipe_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/story.rpy:730
 translate spanish pipe_370f51f9:
 
     # "I can't resist."
-    ""
+    "No me puedo resistir."
 
 # game/story.rpy:731
 translate spanish pipe_cbb3a0ed:
 
     # "Her lifeless body..."
-    ""
+    "Su cuerpo inerte..."
 
 # game/story.rpy:732
 translate spanish pipe_3ded0a3b:
 
     # "Seems to be calling me."
-    ""
+    "Parece estar llamándome."
 
 # game/story.rpy:736
 translate spanish pipe_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/story.rpy:737
 translate spanish pipe_7142c490:
 
     # mc "It's almost time."
-    mc ""
+    mc "Ya casi es la hora."
 
 # game/story.rpy:738
 translate spanish pipe_383e0ad9:
 
     # "I turned on the lights."
-    ""
+    "Encendí las luces."
 
 # game/story.rpy:741
 translate spanish pipe_99cb99df:
 
     # "I observed her body whilst waiting."
-    ""
+    "Observé su cuerpo mientras esperaba."
 
 # game/story.rpy:742
 translate spanish pipe_74a33c97:
 
     # mc "Why does it take a while...?"
-    mc ""
+    mc "¿Por qué tarda tanto...?"
 
 # game/story.rpy:743
 translate spanish pipe_24d3b33a:
 
     # "Her body starts to disappear."
-    ""
+    "Su cuerpo empieza a desaparecer."
 
 # game/story.rpy:746
 translate spanish pipe_d7f0ca85:
 
     # mc "There we go."
-    mc ""
+    mc "Ahí está."
 
 # game/story.rpy:747
 translate spanish pipe_f04ef5ef:
 
     # "On her wake resides a card."
-    ""
+    "Tras su estela, aparece una carta."
 
 # game/story.rpy:748
 translate spanish pipe_3ee9e80a:
 
     # "I picked up the card and went on my way."
-    ""
+    "Recogo la carta y me pongo en marcha."
 
 # game/story.rpy:755
 translate spanish pipe_9dbdbe06:
 
     # ak "Come on, [player]."
-    ak ""
+    ak "Venga ya, [player]."
 
 # game/story.rpy:756
 translate spanish pipe_a4b92826:
 
     # ak "You're gonna lose now."
-    ak ""
+    ak "Ahora vas a perder."
 
 # game/story.rpy:758
 translate spanish pipe_577fe1f0:
 
     # ak "Draw your last pathetic card so I can end this."
-    ak ""
+    ak "Roba tu última y puñetera carta para que pueda acabar con esto."
 
 # game/story.rpy:759
 translate spanish pipe_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/story.rpy:761
 translate spanish pipe_b3315c01:
 
     # mc "My deck has no pathetic cards, Akai."
-    mc ""
+    mc "Mi baraja no tiene cartas malas, Akai."
 
 # game/story.rpy:762
 translate spanish pipe_5811d3df:
 
     # mc "With the power of friendship..."
-    mc ""
+    mc "Con el poder de la amistad..."
 
 # game/story.rpy:763
 translate spanish pipe_3021170a:
 
     # mc "I draw!"
-    mc ""
+    mc "¡Robo!"
 
 # game/story.rpy:764
 translate spanish pipe_bbcdc255:
 
     # "I smirked."
-    ""
+    "He esbozado una sonrisa de superioridad suprema."
 
 # game/story.rpy:765
 translate spanish pipe_78dfd972:
 
     # mc "I special summon Blue-Eyes Cinnamon Dragon!"
-    mc ""
+    mc "¡Invoco de forma especial al dragón de canela de ojos azules!"
 
 # game/story.rpy:768
 translate spanish pipe_f737e982:
 
     # ak "Oh no!"
-    ak ""
+    ak "¡Ah, nooo!"
 
 # game/story.rpy:769
 translate spanish pipe_9987f1eb:
 
     # mc "It destroys all other cards on the field and gains 1000 ATK for each card destroyed!"
-    mc ""
+    mc "¡Destruye las demás cartas en el campo y gana 1000 de ATK por cada una!"
 
 # game/story.rpy:770
 translate spanish pipe_8880294f:
 
     # "But after a few moments..."
-    ""
+    "Pero tras unos instantes..."
 
 # game/story.rpy:773
 translate spanish pipe_3e688b77:
 
     # "The card I have suddenly destroyed itself."
-    ""
+    "De repente, mi carta ha decidido destruirse a sí misma."
 
 # game/story.rpy:774
 translate spanish pipe_085722e2:
 
     # mc "What?!"
-    mc ""
+    mc "¡¿Qué cojones?!"
 
 # game/story.rpy:775
 translate spanish pipe_214e32eb:
 
     # mc "Why did my monster destroyed itself?!"
-    mc ""
+    mc "¡¿Por qué se ha autodestruido mi monstruo?!"
 
 # game/story.rpy:777
 translate spanish pipe_8973f6c5:
 
     # ak "Aha!"
-    ak ""
+    ak "¡Ajá!"
 
 # game/story.rpy:778
 translate spanish pipe_7aee8d5c:
 
     # ak "It seems that the fabled cinnamon dragon refused to acknowledge you as her owner!"
-    ak ""
+    ak "¡Parece que el legendario dragón de canela se niega a reconocerte como su dueño!"
 
 # game/story.rpy:779
 translate spanish pipe_0d5a31c2:
 
     # ak "You're gonna lose!"
-    ak ""
+    ak "¡Vas a perder!"
 
 # game/story.rpy:781
 translate spanish pipe_2b35b6fe_3:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/story.rpy:782
 translate spanish pipe_420e913b:
 
     # mc "Stupid Sayori..."
-    mc ""
+    mc "Puta Sayori..."
 
 # game/story.rpy:783
 translate spanish pipe_f486dbb4:
 
     # mc "I end my turn."
-    mc ""
+    mc "He terminado mi turno."
 
 # game/story.rpy:785
 translate spanish pipe_8f1c788d:
 
     # ak "Okay, [player]!"
-    ak ""
+    ak "¡Vale, [player]!"
 
 # game/story.rpy:786
 translate spanish pipe_2e2f53c2:
 
     # ak "I draw!"
-    ak ""
+    ak "¡Robo!"
 
 # game/story.rpy:788
 translate spanish pipe_e119546f:
 
     # "Akai just obliterated me on his turn."
-    ""
+    "Akai me acaba de aniquilar en su turno."
 
 # game/story.rpy:790
 translate spanish pipe_2b35b6fe_4:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/story.rpy:791
 translate spanish pipe_d38a586a:
 
     # mc "I hate you Akai."
-    mc ""
+    mc "Te odio, Akai."
 
 # game/story.rpy:793
 translate spanish pipe_fee19db9:
 
     # "The bell started to ring."
-    ""
+    "El timbre empieza a sonar."
 
 # game/story.rpy:795
 translate spanish pipe_b77b0001:
 
     # ak "We need to go home, man."
-    ak ""
+    ak "Tenemos que irnos a casa, tío."
 
 # game/story.rpy:797
 translate spanish pipe_f800bed0:
 
     # mc "Yes."
-    mc ""
+    mc "Vale."
 
 # game/story.rpy:800
 translate spanish pipe_a3142886:
 
     # "We went home and called it a day."
-    ""
+    "Nos fuimos a casa y dimos el día por concluido."
 
 translate spanish strings:
 
     # game/story.rpy:236
     old "Time to write some poem--\n\n wait, I'm not gonna impress the others. i just want sayori."
-    new ""
+    new "Hora de escribir un poema...\n\n un momento, paso de impresionar a las demás. yo solo quiero a sayori."
 
     # game/story.rpy:524
     old "Do it."
-    new ""
+    new "Hazlo."
 
     # game/story.rpy:524
     old "Do it!"
-    new ""
+    new "¡Hazlo!"
 
