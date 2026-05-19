@@ -2242,7 +2242,7 @@ translate spanish not_pipe_750f8157:
 translate spanish not_pipe_999c6c37:
 
     # "During our haram session?"
-    "¿Justo en medio de nuestro momento de adolescentes cachondos?"
+    "Joder, ¿justo ahora?"
 
 # game/story.rpy:534
 translate spanish not_pipe_b1ffb8c0:
@@ -2260,7 +2260,7 @@ translate spanish not_pipe_ba1254e0:
 translate spanish not_pipe_ce7f32a6:
 
     # cl "And hereby we offer this bundle of sunshine to our god."
-    cl "Y por la presente tendremos que hacer una ofrende de este rayito de sol a nuestro dios."
+    cl "Y por la presente tendremos que hacer una ofrenda de este rayito de sol a nuestro dios."
 
 # game/story.rpy:537
 translate spanish not_pipe_36e149f3:
@@ -2290,8 +2290,7 @@ translate spanish not_pipe_18533cf4:
 translate spanish not_pipe_6ed023c0:
 
     # "But they already got me from behind."
-    "Y... ya me han agarrado por detrás."
-    "Espero que por lo menos usen vaselina para que me duela menos por mi hoyito."
+    "Y... ya me han acorralado."
 
 # game/story.rpy:543
 translate spanish not_pipe_5e77c0c0:
@@ -2387,7 +2386,7 @@ translate spanish not_pipe_62e85122:
 translate spanish not_pipe_69a1f3b0:
 
     # cl "Submit, little girl, or he dies."
-    cl "Ríndete, niñita, o se muere."
+    cl "Ríndete, niñita, o se muere tu novio."
 
 # game/story.rpy:564
 translate spanish not_pipe_e1554201_1:
@@ -2693,7 +2692,7 @@ translate spanish not_pipe_a4b92826:
 translate spanish not_pipe_577fe1f0:
 
     # ak "Draw your last pathetic card so I can end this."
-    ak "Roba tu última y puñetera carta para que pueda acabar con esto."
+    ak "Roba tu última carta para que puedamos acabar con esto."
 
 # game/story.rpy:625
 translate spanish not_pipe_2b35b6fe_1:
@@ -2705,7 +2704,7 @@ translate spanish not_pipe_2b35b6fe_1:
 translate spanish not_pipe_b3315c01:
 
     # mc "My deck has no pathetic cards, Akai."
-    mc "Mi baraja no tiene cartas malas, Akai."
+    mc "Tranqui, mi baraja no tiene cartas malas."
 
 # game/story.rpy:628
 translate spanish not_pipe_5811d3df:
@@ -2795,7 +2794,7 @@ translate spanish not_pipe_ee7bfe51:
 translate spanish not_pipe_fee19db9:
 
     # "The bell started to ring."
-    "El timbre empezó a sonar."
+    "El timbre suena."
 
 # game/story.rpy:650
 translate spanish not_pipe_b77b0001:
@@ -2975,7 +2974,7 @@ translate spanish pipe_a4b92826:
 translate spanish pipe_577fe1f0:
 
     # ak "Draw your last pathetic card so I can end this."
-    ak "Roba tu última y puñetera carta para que pueda acabar con esto."
+    ak "Roba tu última carta para que puedamos acabar con esto."
 
 # game/story.rpy:759
 translate spanish pipe_2b35b6fe_2:
@@ -2987,7 +2986,7 @@ translate spanish pipe_2b35b6fe_2:
 translate spanish pipe_b3315c01:
 
     # mc "My deck has no pathetic cards, Akai."
-    mc "Mi baraja no tiene cartas malas, Akai."
+    mc "Tranqui, mi baraja no tiene cartas malas."
 
 # game/story.rpy:762
 translate spanish pipe_5811d3df:
@@ -3119,7 +3118,7 @@ translate spanish pipe_d38a586a:
 translate spanish pipe_fee19db9:
 
     # "The bell started to ring."
-    "El timbre empieza a sonar."
+    "El timbre suena."
 
 # game/story.rpy:795
 translate spanish pipe_b77b0001:
@@ -3137,7 +3136,7 @@ translate spanish pipe_f800bed0:
 translate spanish pipe_a3142886:
 
     # "We went home and called it a day."
-    "Nos fuimos a casa y dimos el día por concluido."
+    "Nos hemos ido a casa y dimos el día por concluido."
 
 translate spanish strings:
 
